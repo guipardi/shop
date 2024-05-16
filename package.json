@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
+    "@rocketseat/eslint-config": "^2.2.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "eslint": "^8.57.0",
     "lucide-react": "^0.378.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -27,7 +29,9 @@
     "@typescript-eslint/parser": "^7.2.0",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.19",
+    "eslint-plugin-simple-import-sort": "^12.1.0",
     "postcss": "^8.4.38",
+    "prettier-plugin-tailwindcss": "^0.5.14",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
